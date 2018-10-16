@@ -12,7 +12,7 @@ define('SMTP_USER', 'emailfortesting103@gmail.com');
 define('SMTP_PASSWORD', 'test@123456');
 
 //URL
-define('URLROOT', 'https://php-authentication.herokuapp.com/');
+define('URLROOT', 'https://php-authentication.herokuapp.com');
 
 //APP URL
 define('APPROOT', dirname(__FILE__));
@@ -23,10 +23,10 @@ require_once 'functions.php';
 $objDB = objDB();
 
 $restricted_pages = [
-    '/phpAuthentication/profile.php',
-    '/phpAuthentication/change_password.php',
-    '/phpAuthentication/edit_profile.php',
-    '/phpAuthentication/logout.php', 
+    '/profile.php',
+    '/change_password.php',
+    '/edit_profile.php',
+    '/logout.php', 
 ];
 
 $public_pages = [
