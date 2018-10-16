@@ -12,7 +12,7 @@ define('SMTP_USER', 'emailfortesting103@gmail.com');
 define('SMTP_PASSWORD', 'test@123456');
 
 //URL
-define('URLROOT', 'http://localhost/phpAuthentication');
+define('URLROOT', 'https://php-authentication.herokuapp.com/');
 
 //APP URL
 define('APPROOT', dirname(__FILE__));
