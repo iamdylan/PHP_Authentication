@@ -2,10 +2,14 @@
 session_start();
 
 //Database Credentials 
-define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASSWORD', '123456');
-define('DB_NAME', 'phpauth');
+define('DB_HOST', 'us-cdbr-iron-east-01.cleardb.net');
+define('DB_USER', 'bc905868d42042');
+define('DB_PASSWORD', '5ca7fc15');
+define('DB_NAME', 'heroku_59fc84637b68ba9');
+
+//SMTP Credentials
+define('SMTP_USER', 'emailfortesting103@gmail.com');
+define('SMTP_PASSWORD', 'test@123456');
 
 //URL
 define('URLROOT', 'http://localhost/phpAuthentication');
