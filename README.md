@@ -13,7 +13,7 @@
 
 ---
 
-<img src="./images/screenshots/logo.png" align="right" title="PHPMailer" width="150" height="150">
+<img src="./images/screenshots/logo.png" align="right" title="Logo" width="150" height="150">
 
 The aim of this project is to build the complete user login and registration component of a web application using PHP. This project has the following features:
 + Login / Registration.
