@@ -34,11 +34,11 @@ Try it out:
 
 #### SCREENSHOTS:
 
-<p align="center"><img src="./images/screenshots/shadow_landing_page.png" alt="Landing Page" width="80%" cap></p>
+<p align="center">Landing Page<br><img src="./images/screenshots/shadow_landing_page.png" alt="Landing Page" width="80%" cap></p>
 
-<p align="center"><img src="./images/screenshots/shadow_registration.png" alt="Registration" width="80%"></p>
+<p align="center">Registration<br><img src="./images/screenshots/shadow_registration.png" alt="Registration" width="80%"></p>
 
-<p align="center"><img src="./images/screenshots/shadow_login.png" alt="Login" width="80%"></p>
+<p align="center">Login<br><img src="./images/screenshots/shadow_login.png" alt="Login" width="80%"></p>
 
 Tools used:
 + HTML
@@ -57,3 +57,5 @@ Tools used:
 + Heroku
 
 Please let me know of any corrections or suggestions you would like me to be aware of.
+
+Note: The background particles struggles with a slower fps on firefox and few other browsers, but works best on Chrome and Edge (yes edge, believe it). It is a known issue of the particle.js library.
