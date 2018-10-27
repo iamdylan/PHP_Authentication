@@ -33,11 +33,12 @@ Try it out:
 <br>
 
 #### SCREENSHOTS:
-<p align="center"><img src="./images/screenshots/shadow_landing_page.png" alt="Landing Page" width="80%">Landing Page</p>
 
-<p align="center"><img src="./images/screenshots/shadow_registration.png" alt="Registration" width="80%">Registration</p>
+<p align="center"><img src="./images/screenshots/shadow_landing_page.png" alt="Landing Page" width="80%" cap></p>
 
-<p align="center"><img src="./images/screenshots/shadow_login.png" alt="Login" width="80%">Login</p>
+<p align="center"><img src="./images/screenshots/shadow_registration.png" alt="Registration" width="80%"></p>
+
+<p align="center"><img src="./images/screenshots/shadow_login.png" alt="Login" width="80%"></p>
 
 Tools used:
 + HTML
