@@ -13,7 +13,7 @@
 
 ---
 
-<img src="./images/screenshots/logo.png" align="right" title="Logo" width="150" height="150">
+<img src="./images/screenshots/logo.jpg" align="right" title="Logo" width="150" height="150">
 
 The aim of this project is to build the complete user login and registration component of a web application using PHP. This project has the following features:
 + Login / Registration.
@@ -34,7 +34,7 @@ Try it out:
 
 #### SCREENSHOTS:
 
-<div align="center" text-align:center;><img src="./images/screenshots/landing_page.png" alt="Landing Page" width="80%" style="padding-bottom:0.5em;">Landing Page</div>
+<div align="center" text-align:center;><img src="./images/screenshots/Landing_page.png" alt="Landing Page" width="80%" style="padding-bottom:0.5em;">Landing Page</div>
 
 Tools used:
 + HTML
