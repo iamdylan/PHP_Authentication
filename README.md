@@ -1,6 +1,6 @@
 <h1 align="center">Complete PHP Authentication</h1>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![HTML](https://img.shields.io/badge/html-5.0-green.svg?longCache=true&style=plastic)
 ![CSS](https://img.shields.io/badge/CSS-3.0-green.svg?longCache=true&style=plastic)
 ![JavaScript](https://img.shields.io/badge/javascript-ES5-blue.svg?longCache=true&style=plastic)
