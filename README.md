@@ -34,7 +34,11 @@ Try it out:
 
 #### SCREENSHOTS:
 
-<p align="center"><img src="./images/screenshots/Landing_Page.png" alt="Landing Page" width="80%"><br>Landing Page</p>
+<p align="center"><img src="./images/screenshots/shadow_landing_page.png" alt="Landing Page" width="80%"><br>Landing Page</p>
+
+<p align="center"><img src="./images/screenshots/shadow_registration.png" alt="Registration" width="80%"><br>Registration</p>
+
+<p align="center"><img src="./images/screenshots/shadow_login.png" alt="Login" width="80%"><br>Login</p>
 
 Tools used:
 + HTML
