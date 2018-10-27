@@ -34,7 +34,7 @@ Try it out:
 
 #### SCREENSHOTS:
 
-<div align="center" text-align:center;><img src="./images/screenshots/Landing_page.png" alt="Landing Page" width="80%">Landing Page</div>
+<p align="center"><img src="./images/screenshots/Landing_page.png" alt="Landing Page" width="80%">Landing Page</p>
 
 Tools used:
 + HTML
