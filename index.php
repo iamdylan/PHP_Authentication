@@ -9,7 +9,7 @@
         <div class='jumbotron jumbotron-fluid text-center color-set'>
             <div class="container">
                 <h1 class='display-6'>Complete User Authentication </h1>
-                <p class="text-lead">(with PHP, MySQL, Bootstrap and a drop of JavaScript)</p>
+                <p class="text-lead">(with HTML, CSS, PHP, MySQL, Bootstrap and a drop of JavaScript)</p>
             </div>
         </div>
             <div class="card-header card-header-custom text-center">
