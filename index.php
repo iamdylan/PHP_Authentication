@@ -33,7 +33,7 @@
                             <ul class="list-group text-center">
                                 <li class="list-group-item">Login / Register</li>
                                 <li class="list-group-item">Profile Management System</li>
-                                <li class="list-group-item">Forgot/Reset Password</li>
+                                <li class="list-group-item">Forgot / Reset Password</li>
                                 <li class="list-group-item">Remember Me Option</li>
                             
                             </ul>
