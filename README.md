@@ -54,7 +54,8 @@ Tools used:
 + Sublime
 + Cmder
 + Xampp
-+ Heroku
++ Heroku CLI
++ Photoshop (for the images above).
 
 Please let me know of any corrections or suggestions you would like me to be aware of.
 
