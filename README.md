@@ -59,4 +59,6 @@ Tools used:
 
 Please let me know of any corrections or suggestions you would like me to be aware of.
 
-Note: The background particles struggles with a slower fps on firefox and few other browsers, but works best on Chrome and Edge (yes edge, believe it). This is a known issue of the particle.js library.
+**Note:** The background particles struggles with a slower fps on firefox and few other browsers, but works best on Chrome and Edge (yes edge, believe it). This is a known issue of the particle.js library.
+
+On Chrome the background particles or some of the screenshots above may fail to appear while displaying the message "500: Internal Server Error". In this case the simplest solution would be to clear Chrome's cache and re-launch, or use another browser like Firefox for the purpose of evaluating this app.
