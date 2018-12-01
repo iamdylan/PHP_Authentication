@@ -28,7 +28,7 @@ The aim of this project is to build the complete user login and registration com
 The project has been deployed on Heroku so that you can take it for a spin by clicking on the "Demo" link below. I used Cmdr in combination with heroku's CLI to push the project on a remote heroku branch and it will remain accessible, as long as I do not run out of my monthly dynos (which is plenty).
 
 Try it out: 
-## [DEMO](https://php-authentication.herokuapp.com/)
+## [LIVE DEMO](https://php-authentication.herokuapp.com/)
 
 <br>
 
